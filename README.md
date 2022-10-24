@@ -6,5 +6,4 @@ This is a simple readme file
 
 Random updates
 
-This is bound to cause trouble
-
+Just something going on
